@@ -1,6 +1,14 @@
 ## Hi there 👋 I am Asheesh Kumar
 ## Java Developer & an individual learning about GenAI and exploring AI/ML techniques.
 
+- 🌱 I’m currently learning Python and GenAI.
+- 🔭 I like solve leetcode problems in my free time.
+- 📫 How to reach me: kumar.asheesh89@gmail.com
+- 😄 Pronouns: He/Him
+
+## Languages and Tools:
+
+
 <!--
 **asheesh89/asheesh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

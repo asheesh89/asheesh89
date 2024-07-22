@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Asheesh Kumar
-## Java Developer & an individual learning about GenAI and exploring AI/ML techniques.
+## Java Developer & an individual, learning about GenAI and exploring AI/ML techniques.
 
 - 🌱 I’m currently learning Python and GenAI.
 - 🔭 I like to solve leetcode problems in my free time.

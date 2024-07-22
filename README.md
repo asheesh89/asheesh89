@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools:
-<b>Programming Languages<b>
+<b>Programming Languages<b></br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">

@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools:
+<b>Programming Languages<b>
+Java	Python	JS	Typescript
 
 
 <!--

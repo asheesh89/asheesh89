@@ -8,9 +8,7 @@
 
 ## Languages and Tools:
 <b>Programming Languages<b>
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Java Script](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)![Java Script](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 
 <!--

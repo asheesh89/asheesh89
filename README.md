@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning Python and GenAI.
 - 🔭 I like to solve leetcode problems in my free time.
-- 📫 How to reach me: kumar.asheesh89@gmail.com
 - 😄 Pronouns: He/Him
 
 ## Languages and Tools:

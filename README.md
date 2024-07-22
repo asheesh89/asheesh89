@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Asheesh Kumar
-        Java Developer and an individual learning about GenAI and exploring AI/ML techniques.
+## Java Developer & an individual learning about GenAI and exploring AI/ML techniques.
 
 <!--
 **asheesh89/asheesh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

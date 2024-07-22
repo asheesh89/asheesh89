@@ -17,7 +17,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50">
 
+<b>Databases:</b></br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Spring Boot" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Angular" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Angular" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cosmosdb/cosmosdb-original.svg" alt="Angular" width="50" height="50">
 
+<b>Infrastructure:</b></br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Spring Boot" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Angular" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Angular" width="50" height="50">
 <!--
 **asheesh89/asheesh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
